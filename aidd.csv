@@ -1,0 +1,264 @@
+company,drug,indication,stage,therapeutic_area
+Company,Drug,Indication,,Therapeutic area
+Acurastem,AS - 1,Amyotrophic lateral sclerosis and frontotemporal degeneration,Phase 3,Neurology
+Pharnext,PXT3003,Charcot-Marie-Tooth disease type 1A adults,Phase 3,Neurology
+Sunovion,SEP-363856,Schizophrenia,Phase 3,Neurology
+AI Therapeutics,LAM–002,B-cell non-Hodgkin lymphoma (atezolizumab combination),Phase 2,Oncology
+AI Therapeutics,LAM–002,B-cell non-Hodgkin lymphoma (rituximab combination),Phase 2,Oncology
+AI Therapeutics,LAM–004,Facial angiofibroma,Phase 2,Rare disease
+AI Therapeutics,LAM–002,B-cell non-Hodgkin lymphoma (monotherapy),Phase 2,Oncology
+AI Therapeutics,LAM–001,Lymphangioleiomyomatosis,Phase 2,Oncology
+Berg,BPM31510,Pancreatic tumors,Phase 2,Oncology
+Berg,BPM31510,Squamous cell carcinoma,Phase 2,Oncology
+BioXcel Therapeutics,BXCL501,Acute agitation in schizophrenia or bipolar disorder,Phase 2,Neurology
+BioXcel Therapeutics,BXCL701,Neuroendocrine prostate cancer,Phase 2,Oncology
+BioXcel Therapeutics,BXCL501,Acute agitation in Alzheimer's disease or dementia,Phase 2,Neurology
+BioXcel Therapeutics,BXCL701,Pancreatic cancer,Phase 2,Oncology
+BlackThorn Therapeutics,BTRX-335140,Mood/anxiety disorders,Phase 2,Neurology
+Globavir,GBV006,Dengue infection,Phase 2,Infectious disease
+Globavir,GBV006,Chikungunya infection,Phase 2,Infectious disease
+Lantern Pharma,LP-100,Prostate and ovarian cancers,Phase 2,Oncology
+Pharnext,PXT864,Alzheimer's disease,Phase 2,Neurology
+SOM Biotech,SOM0226,TTR amyloidosis,Phase 2,Rare disease
+SOM Biotech,SOM3355,Huntington's disease and tardive dyskinesia,Phase 2,Neurology
+AI Therapeutics,LAM–003,Acute myeloid leukemia,Phase 1,Oncology
+Adagene,ADG106,"Advanced or metastatic solid tumors, and non-Hodgkin's lymphoma",Phase 1,Oncology
+Adagene,ADG104,Undisclosed,Phase 1,Undisclosed
+Adagene,ADG116,Undisclosed,Phase 1,Undisclosed
+Berg,BPM31510,Solid tumors,Phase 1,Oncology
+Berg,BPM31510,Glioblastoma multiforma,Phase 1,Oncology
+Berg,BPM31510,Epidermolysis bullosa,Phase 1,Oncology
+Berg,BPM31543,Chemotherapy-induced alopecia,Phase 1,Oncology
+Cotinga Pharmaceuticals,COTI-2,Advanced or recurrent gynecological malignancies,Phase 1,Oncology
+Cotinga Pharmaceuticals,COTI-2,HNSCC dose escalation,Phase 1,Oncology
+Evaxion Biotech,EVX-01,Personalized cancer immunotherapy,Phase 1,Oncology
+Exscientia,DSP-1181,Obsessive-compulsive disorder,Phase 1,Neurology
+Gritstone Oncology,SLATE,Solid tumors,Phase 1,Oncology
+Gritstone Oncology,GRANITE,Solid tumors,Phase 1,Oncology
+Lantern Pharma,LP-300,Lung cancers,Phase 1,Oncology
+Pharos iBT,PHI-101,Acute myelogenous leukemia,Phase 1,Oncology
+Recursion Pharmaceuticals,Undisclosed,"Neurofibromatosis type 2 (CereXis, Inc.)",Phase 1,Oncology
+Recursion Pharmaceuticals,Undisclosed,Cerebral cavernous malformation,Phase 1,Cardiology
+SOM Biotech,SOM1201,Adrenoleukodystrophy and adrenomyeloneuropathy,Phase 1,Rare disease
+Vaxine,AF03,Influenza,Phase 1,Infectious disease
+AI Therapeutics,LAM-002,Amyotrophic lateral sclerosis,Preclinical,Neurology
+AI Therapeutics,LAM–005,Undisclosed,Preclinical,Rare disease
+Adagene,Undisclosed bi-specific SAFEbody,Undisclosed,Preclinical,Undisclosed
+Adagene,AGD126 SAFEbody,Undisclosed,Preclinical,Undisclosed
+Adagene,Undisclosed SAFEbody,Undisclosed,Preclinical,Undisclosed
+Alphanosos,W9P154,Multidrug-resistant gonorrhea,Preclinical,Infectious disease
+Alphanosos,W17P367,Psoriasis,Preclinical,Dermatology
+Alphanosos,W17P367,Eczema,Preclinical,Dermatology
+Alphanosos,W17P367,Acne,Preclinical,Dermatology
+Alphanosos,W17P367,Superficial skin infection,Preclinical,Infectious disease
+Alphanosos,W8P276,Multidrug-resistant Candida infections,Preclinical,Infectious disease
+Alphanosos,W8P276,Vaginosis,Preclinical,Infectious disease
+Auransa,Undisclosed,Hepatocellular carcinoma,Preclinical,Oncology
+Auransa,Undisclosed,Cardioprotection,Preclinical,Oncology
+Berg,BPM42522,Undisclosed,Preclinical,Oncology
+Berg,BPM28740,Undisclosed,Preclinical,Oncology
+BioXcel Therapeutics,BXCL501,Delirium,Preclinical,Neurology
+BioXcel Therapeutics,BXCL501,Opioid withdrawal,Preclinical,Neurology
+BioXcel Therapeutics,BXCL701,Multiple tumor types,Preclinical,Oncology
+Biovista,BVA202,"Leber's hereditary optic neuropathy, Friedreich's ataxia",Preclinical,Neurology
+Biovista,BVA201,Multiple sclerosis,Preclinical,Neurology
+Biovista,BVA101,Multiple sclerosis,Preclinical,Neurology
+Biovista,BVA601,Epilepsy,Preclinical,Neurology
+Biovista,BVA501,"Gioblastoma, melanoma, thyroid cancer",Preclinical,Oncology
+Biovista,BVA701,"Gioblastoma, melanoma, thyroid cancer",Preclinical,Oncology
+Biovista,Combo therapy,Chronic fatigue syndrome/myalgic encephalomyelitis,Preclinical,Neurology
+Biovista,BVA203,"Leber's hereditary optic neuropathy, Friedreich's ataxia",Preclinical,Neurology
+BlackThorn Therapeutics,BTRX-323511,Autism,Preclinical,Neurology
+CaroCure,CCP3-5,Breast cancer,Preclinical,Oncology
+CaroCure,CCP3-4,Renal cancer,Preclinical,Oncology
+CaroCure,CCP3-3,Melanoma,Preclinical,Oncology
+CaroCure,CCP3-2,Colon cancer,Preclinical,Oncology
+CaroCure,CCP3-1,Leukemia,Preclinical,Oncology
+Cloud Pharmaceuticals,Undisclosed serpins,Undisclosed,Preclinical,Undisclosed
+Cloud Pharmaceuticals,Undisclosed PLA2,Undisclosed,Preclinical,Metabolic disease
+Cloud Pharmaceuticals,Undisclosed βCR+,Undisclosed,Preclinical,Oncology
+Collaborations Pharma,Undisclosed,Staphylococcus a,Preclinical,Infectious disease
+Collaborations Pharma,Undisclosed,Alzheimer's disease,Preclinical,Neurology
+Collaborations Pharma,Undisclosed,Ebola,Preclinical,Infectious disease
+Collaborations Pharma,Undisclosed,Chagas disease,Preclinical,Infectious disease
+Collaborations Pharma,Undisclosed,M. tuberculosis A,Preclinical,Infectious disease
+Collaborations Pharma,Undisclosed,HIV,Preclinical,Infectious disease
+Collaborations Pharma,Undisclosed,Batten CLN1,Preclinical,Rare disease
+Collaborations Pharma,Undisclosed,C. Neoformans,Preclinical,Infectious disease
+Collaborations Pharma,Undisclosed,Hepatitis B,Preclinical,Infectious disease
+Collaborations Pharma,Undisclosed,Sialidase,Preclinical,Rare disease
+Coral Genomics,Undisclosed immunotherapy,Undisclosed,Preclinical,Undisclosed
+Cotinga Pharmaceuticals,COTI-2,HNSCC expansion,Preclinical,Oncology
+Cotinga Pharmaceuticals,COTI-2,HNSCC combination therapy,Preclinical,Oncology
+Cotinga Pharmaceuticals,COTI-219,Multiple oncology indications,Preclinical,Oncology
+Cotinga Pharmaceuticals,COTI-2,Ovarian expansion,Preclinical,Oncology
+Cotinga Pharmaceuticals,COTI-2,P53 basket,Preclinical,Oncology
+Deep Genomics,DGP12P1,Wilson disease,Preclinical,Metabolic disease
+Deep Genomics,DG11P1,Undisclosed,Preclinical,Metabolic disease
+Evaxion Biotech,EVX-BX,Undisclosed,Preclinical,Infectious disease
+Evaxion Biotech,EVX-B2,"Cystic fibrosis, pseudomonas aeruginosa",Preclinical,Infectious disease
+Evaxion Biotech,EVX-B1,"Skin infections, staphylococcus aureus",Preclinical,Infectious disease
+Evaxion Biotech,EVX-03,Personalized cancer immunotherapy,Preclinical,Oncology
+Evaxion Biotech,EVX-B3,3 undisclosed pathogens,Preclinical,Infectious disease
+Evaxion Biotech,EVX-02,Personalized cancer immunotherapy,Preclinical,Oncology
+Gritstone Oncology,Bispecific mAb,Solid tumors,Preclinical,Oncology
+Healx,Undisclosed,Fragile X,Preclinical,Rare disease
+Healx,Undisclosed,Undisclosed,Preclinical,Rare disease
+Healx,Undisclosed,Undisclosed,Preclinical,Rare disease
+Healx,Undisclosed,Undisclosed,Preclinical,Rare disease
+Healx,Undisclosed,Neuroblastoma,Preclinical,Rare disease
+Healx,Undisclosed,CDKL5 syndrome,Preclinical,Rare disease
+Healx,Undisclosed,Pitt Hopkins,Preclinical,Rare disease
+Healx,Undisclosed,Undisclosed,Preclinical,Rare disease
+Healx,Undisclosed,Barth syndrome,Preclinical,Rare disease
+Lantern Pharma,LP-184,Prostate and ovarian cancers,Preclinical,Oncology
+Neon Therapeutics,NEO-STC-01,RAS pancreatic cancer,Preclinical,Oncology
+Neon Therapeutics,NEO-PTC-01,Second line metastatic ovarian cancer,Preclinical,Oncology
+Neon Therapeutics,NEO-PTC-01,Second line metastatic melanoma,Preclinical,Oncology
+Pharnext,PXT3003,Charcot-Marie-Tooth disease type 1A pediatric,Preclinical,Neurology
+Pharnext,PXT864,Amyotrophic lateral sclerosis,Preclinical,Neurology
+Pharos iBT,PHI-101,High-grade serous ovarian cancer,Preclinical,Oncology
+Pharos iBT,PHI-101,Triple negative breast cancer,Preclinical,Oncology
+Pharos iBT,PHI-101,Radiation sensitizer,Preclinical,Oncology
+Recursion Pharmaceuticals,Undisclosed,Neuroinflammation,Preclinical,Neurology
+Recursion Pharmaceuticals,Undisclosed,Pulmonary hypertension,Preclinical,Cardiology
+Recursion Pharmaceuticals,Undisclosed,Hereditary hemorrhagic,Preclinical,Hematology
+Recursion Pharmaceuticals,Undisclosed,Von hippel-linda,Preclinical,Oncology
+Recursion Pharmaceuticals,Undisclosed,Charcot-marie-tooth,Preclinical,Neurology
+Recursion Pharmaceuticals,Undisclosed,Clostridium difficile,Preclinical,Infectious disease
+Recursion Pharmaceuticals,Undisclosed,Undisclosed indication,Preclinical,Undisclosed
+Recursion Pharmaceuticals,Undisclosed,Mucolipidosis,Preclinical,Metabolic disease
+Recursion Pharmaceuticals,Undisclosed,Batten disease,Preclinical,Neurology
+Recursion Pharmaceuticals,Undisclosed,Dilated cardiomyopathy,Preclinical,Cardiology
+Recursion Pharmaceuticals,Undisclosed,Tay-sachs/sandhoff disease,Preclinical,Neurology
+Recursion Pharmaceuticals,Undisclosed,Senescence,Preclinical,Biogerontology
+Recursion Pharmaceuticals,Undisclosed,Darier disease,Preclinical,Dermatology
+Reverie Labs,RL316,"Hematologic malignancies, primary brain tumors, neuroblastoma",Preclinical,Oncology
+Reverie Labs,RL055,"Metastatic breast cancer, primary brain tumors",Preclinical,Oncology
+SOM Biotech,SOM0777,Glioblastoma,Preclinical,Oncology
+SOM Biotech,SOM1311,Phenylketonuria,Preclinical,Rare disease
+SOM Biotech,SOM0208,Niemann-Pick disease type C,Preclinical,Rare disease
+Standigm,Undisclosed,Parkinson's disease,Preclinical,Neurology
+Standigm,Undisclosed,Non-alcoholic steatohepatitis,Preclinical,Metabolic disease
+Standigm,Undisclosed,Parkinson's disease,Preclinical,Neurology
+Standigm,Undisclosed,Non-alcoholic steatohepatitis,Preclinical,Metabolic disease
+Standigm,Undisclosed,Parkinson's disease,Preclinical,Neurology
+Standigm,Undisclosed,Non-alcoholic steatohepatitis,Preclinical,Metabolic disease
+TwoXAR,Undisclosed,Undisclosed immune condition 1,Preclinical,Inflammation and immunology
+TwoXAR,Undisclosed,Liver cancer,Preclinical,Oncology
+TwoXAR,Undisclosed,Undisclosed fibrosis 4,Preclinical,Fibrosis
+TwoXAR,Undisclosed,Undisclosed fibrosis 3,Preclinical,Fibrosis
+TwoXAR,Undisclosed,Undisclosed immune condition 2,Preclinical,Inflammation and immunology
+TwoXAR,Undisclosed,Undisclosed immune condition 3,Preclinical,Inflammation and immunology
+TwoXAR,Undisclosed,Undisclosed inflammatory condition 1,Preclinical,Inflammation and immunology
+TwoXAR,Undisclosed,Glioblastoma,Preclinical,Oncology
+TwoXAR,Undisclosed,Undisclosed fibrosis 2,Preclinical,Fibrosis
+TwoXAR,Undisclosed,Non-small-cell lung carcinoma,Preclinical,Oncology
+TwoXAR,Undisclosed,Undisclosed metabolic condition 1,Preclinical,Metabolic disease
+A2A Pharmaceuticals,Undisclosed,Leukemia,Discovery,Oncology
+A2A Pharmaceuticals,Undisclosed,Solid tumors,Discovery,Oncology
+A2A Pharmaceuticals,Undisclosed,Tumor myeloid cells,Discovery,Oncology
+A2A Pharmaceuticals,Undisclosed,Protein degradation,Discovery,Oncology
+A2A Pharmaceuticals,Undisclosed,Cancer and DMD,Discovery,Oncology
+A2A Pharmaceuticals,Undisclosed,Gram - bacteria,Discovery,Infectious disease
+A2A Pharmaceuticals,Undisclosed,Undisclosed cardiovascular indication,Discovery,Cardiology
+A2A Pharmaceuticals,Undisclosed,Undisclosed cardiovascular indication,Discovery,Oncology
+Acurastem,AS - 3,Amyotrophic lateral sclerosis,Discovery,Neurology
+Acurastem,AS - 2,Amyotrophic lateral sclerosis,Discovery,Neurology
+Acurastem,AS - 1,Neurodegenerative diseases,Discovery,Neurology
+Acurastem,AS - 1,Anti-viral,Discovery,Infectious disease
+Acurastem,AS - 1,Lymphoma,Discovery,Oncology
+Alphanosos,Undisclosed,Undisclosed,Discovery,Oncology
+Alphanosos,W7P9,Tuberculosis,Discovery,Infectious disease
+Auransa,Undisclosed,Acute myeloid leukemia,Discovery,Oncology
+Auransa,Undisclosed,Breast cancer,Discovery,Oncology
+Auransa,Undisclosed,Multiple myeloma,Discovery,Oncology
+Auransa,Undisclosed,Prostate cancer,Discovery,Oncology
+Auransa,Undisclosed,Small cell lung cancer,Discovery,Oncology
+Auransa,Undisclosed,Alzheimer's disease,Discovery,Neurology
+Auransa,Undisclosed,Non-alcoholic steatohepatitis,Discovery,Metabolic disease
+Auransa,Undisclosed,Rheumatoid arthritis,Discovery,Inflammation and immunology
+Auransa,Undisclosed,Gram negative bacteria,Discovery,Infectious disease
+Berg,BPM21211,Undisclosed,Discovery,Neurology
+Berg,BPM79741,Undisclosed,Discovery,Neurology
+Berg,BPM19211,Undisclosed,Discovery,Neurology
+Berg,BPM13292,Undisclosed,Discovery,Neurology
+Berg,BPM27983,Undisclosed,Discovery,Neurology
+CaroCure,CCP5,Tuberculosis,Discovery,Infectious disease
+CaroCure,CCP2,Undisclosed cardiovascular,Discovery,Cardiology
+CaroCure,CCP1,Undisclosed immuno-oncology,Discovery,Oncology
+CaroCure,CCP4,ESKAPE pathogens,Discovery,Infectious disease
+Cloud Pharmaceuticals,Undisclosed IGF,Undisclosed,Discovery,Metabolic disease
+Cloud Pharmaceuticals,Undisclosed AMPK activator,Undisclosed,Discovery,Metabolic disease
+Cloud Pharmaceuticals,Undisclosed JAK3 selective,Undisclosed,Discovery,Undisclosed
+Cloud Pharmaceuticals,Undisclosed α1 anti-trypsin,Undisclosed,Discovery,Undisclosed
+Cloud Pharmaceuticals,Undisclosed DNA polymerase B,Undisclosed,Discovery,Oncology
+Cloud Pharmaceuticals,Undisclosed PDHK2,Undisclosed,Discovery,Metabolic disease
+Cloud Pharmaceuticals,Undisclosed dengue NS3,Undisclosed,Discovery,Undisclosed
+Cloud Pharmaceuticals,Undisclosed PD-1,Undisclosed,Discovery,Oncology
+Cloud Pharmaceuticals,Undisclosed PKR,Undisclosed,Discovery,Oncology
+Cloud Pharmaceuticals,Undisclosed MTH1,Undisclosed,Discovery,Oncology
+Cloud Pharmaceuticals,Undisclosed metnase,Undisclosed,Discovery,Oncology
+Cloud Pharmaceuticals,Undisclosed eIF4e,Undisclosed,Discovery,Oncology
+Coral Genomics,Undisclosed,Undisclosed,Discovery,Gastroenterology
+Coral Genomics,Undisclosed,Undisclosed,Discovery,Cardiology
+Coral Genomics,Undisclosed,Undisclosed,Discovery,Gastroenterology
+Coral Genomics,Undisclosed gene therapy,Undisclosed,Discovery,Undisclosed
+Cotinga Pharmaceuticals,Undisclosed,Undisclosed,Discovery,Infectious disease
+Cotinga Pharmaceuticals,Undisclosed,Undisclosed,Discovery,Neurology
+Cotinga Pharmaceuticals,Undisclosed,Multiple oncology indications,Discovery,Oncology
+Deep Genomics,Undisclosed,Undisclosed retinopathy,Discovery,Ophthalmology
+Exscientia,Undisclosed,Undisclosed,Discovery,Inflammation and immunology
+Exscientia,Undisclosed,Undisclosed,Discovery,Neurology
+Exscientia,Undisclosed,Chronic obstructive pulmonary disease,Discovery,Respiratory
+Exscientia,Undisclosed,Undisclosed,Discovery,Oncology
+Exscientia,Undisclosed,Undisclosed,Discovery,Oncology
+Exscientia,Undisclosed,Undisclosed,Discovery,Rare disease
+Exscientia,Undisclosed,Fibrosis,Discovery,Fibrosis
+Exscientia,Undisclosed,Undisclosed,Discovery,Inflammation and immunology
+Exscientia,Undisclosed,Undisclosed,Discovery,Inflammation and immunology
+Exscientia,Undisclosed,Undisclosed,Discovery,Oncology
+Exscientia,Undisclosed,Undisclosed,Discovery,Oncology
+Exscientia,Undisclosed,Undisclosed,Discovery,Oncology
+Gritstone Oncology,TCRs,Undisclosed,Discovery,Oncology
+Neon Therapeutics,NEO-STC-01,Undisclosed solid tumors,Discovery,Oncology
+Pharos iBT,PHI-201,Solid tumors,Discovery,Oncology
+Pharos iBT,PHI-301,Solid tumors,Discovery,Oncology
+Reverie Labs,RL212,"Advanced melanoma, KRAS-mutant pancreatic ductal adenocarcinoma",Discovery,Oncology
+Schrödinger,SDGR5,KRAS-driven tumors,Discovery,Oncology
+Schrödinger,SDGR4,Renal cell carcinoma,Discovery,Oncology
+Schrödinger,SDGR2,Solid tumors,Discovery,Oncology
+Schrödinger,SDGR1,Solid tumors,Discovery,Oncology
+Schrödinger,SDGR3,BTK-resistant / relapsed lymphomas,Discovery,Oncology
+Sirenas,Undisclosed,Reversal of T cell exhaustion,Discovery,Undisclosed
+Sirenas,Undisclosed RIG-I agonist,Undisclosed,Discovery,Undisclosed
+Sirenas,Undisclosed cGAS antagonist,Undisclosed,Discovery,Undisclosed
+Standigm,Undisclosed,Mitochondria disease,Discovery,Metabolic disease
+Standigm,Undisclosed,Undisclosed cancer,Discovery,Oncology
+Standigm,Undisclosed,Parkinson's disease,Discovery,Neurology
+Standigm,Undisclosed,Undisclosed cancer,Discovery,Oncology
+Standigm,Undisclosed,Undisclosed cancer,Discovery,Oncology
+Standigm,Undisclosed,Undisclosed cancer,Discovery,Oncology
+Standigm,Undisclosed,Undisclosed cancer,Discovery,Oncology
+Standigm,Undisclosed,Undisclosed cancer,Discovery,Oncology
+Standigm,Undisclosed,Undisclosed cancer,Discovery,Oncology
+Standigm,Undisclosed,Non-alcoholic steatohepatitis,Discovery,Metabolic disease
+Standigm,Undisclosed,Tuberculosis,Discovery,Infectious disease
+Standigm,Undisclosed,Undisclosed cancer,Discovery,Oncology
+Standigm,Undisclosed,Undisclosed fibrotic disease,Discovery,Fibrosis
+Standigm,Undisclosed,Rheumatoid arthritis,Discovery,Inflammation and immunology
+Standigm,Undisclosed,Undisclosed cancer,Discovery,Oncology
+Standigm,Undisclosed,Autism,Discovery,Neurology
+TwoXAR,Undisclosed,Endometriosis,Discovery,Fibrosis
+TwoXAR,Undisclosed,Undisclosed oncology indication 5,Discovery,Oncology
+TwoXAR,Undisclosed,Undisclosed oncology indication 6,Discovery,Oncology
+TwoXAR,Undisclosed,Glaucoma,Discovery,Ophthalmology
+TwoXAR,Undisclosed,Undisclosed dermatology condition 1,Discovery,Dermatology
+TwoXAR,Undisclosed,Undisclosed neurological condition 1,Discovery,Neurology
+TwoXAR,Undisclosed,Undisclosed rare disease 1,Discovery,Rare disease
+TwoXAR,Undisclosed,Undisclosed oncology indication 4,Discovery,Oncology
+X-37,Undisclosed ZAP-70 inhibitor,Autoimmune disease,Discovery,Inflammation and immunology
+X-37,Undisclosed PIM 3 inhibitor,Cancer,Discovery,Oncology
+X-37,Undisclosed STING inhibitor,Systemic lupus erythematosus,Discovery,Inflammation and immunology
+X-37,Undisclosed factor XIIa inhibitor,Anticoagulation,Discovery,Cardiology
+X-37,Undisclosed SHP2 inhibitor,Cancer,Discovery,Oncology
