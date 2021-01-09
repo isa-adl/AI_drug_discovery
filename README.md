@@ -8,7 +8,7 @@ I used two datasets scraped from BenchSci.
 
 Folders 'aidd' and 'aistartups' contain the Scrapy Python code. 
 
-Folder 'data' contains the two csv files.
+'aidd' and 'aistartups' are the csv files used.
 
 'decriptive_analytics_of_ai_dd_trends.ipynb' contains exploration and visualizations of the datasets.
 
